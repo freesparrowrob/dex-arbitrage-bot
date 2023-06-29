@@ -1,3 +1,10 @@
+<p align="center">
+<img src=https://img.shields.io/github/stars/freesparrowrob/dex-arbitrage-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/freesparrowrob/dex-arbitrage-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/freesparrowrob/dex-arbitrage-bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/freesparrowrob/dex-arbitrage-bot?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+
 # About
 The bot continuously monitors the prices of specific assets on different DEXs, looking for opportunities to buy at a lower price on one exchange and sell at a higher price on another. When a favorable arbitrage opportunity is identified, the bot automatically executes the trades to capitalize on the price disparity and generate profits.Through continuous monitoring of various DEX platforms, bot analyzes real-time market data to identify instances where an asset's price diverges significantly across exchanges.
 
